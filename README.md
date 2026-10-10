@@ -9,4 +9,4 @@ My major change was that I did not make a moving path the ship had to follow. Ho
  previous high score. This tree also spawns in different obstacle sprites.
 
 For audio, I stayed with my plan to have a background sound as you play the game, but I also added
- a crashing sound when you hit one of the obstacles.
+ a crashing sound when you hit one of the obstacles, and sound when you pass the high score.
